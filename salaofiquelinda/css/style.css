@@ -1,0 +1,155 @@
+@charset "UTF-8";
+nav div ul li a {
+  background-color: #FF8C69;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff !important;
+}
+.body{
+	margin-bottom:0px;
+	height:100%
+}
+.info-boxed{
+	padding-top: 0%;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 100%;
+	background-color: #ffffff;
+	height: 100%;
+}
+.info-column{
+	width: 80%;
+	height: 30%;
+
+
+}
+.texto{
+	color: black;
+	font-weight: 100px;
+	font-size: 15px;
+	text-align: justify;
+	
+
+}
+.carousel{
+	height:100%;
+	
+}
+.h1{
+	font-weight: 100px;
+	font-size: 15px;
+	text-align: center;
+	color: #FF8C69;
+}
+nav div ul li {
+  float: left;
+}
+  .navbar .navbar-nav {
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  .navbar .navbar-left {
+    padding-left: 30%;
+  }
+
+  .navbar .navbar-right {
+    padding-right: 19.5%;
+  }
+
+  .navbar .navbar-collapse {
+    text-align: center;
+  }
+
+  .bg_cor{
+    background-color: #FF8C69;
+  }
+
+  .logo {
+    position: absolute;
+
+  }
+.table th{
+	color: red;
+	font-weight: 100px;
+	font-size: 20px;
+	text-align: justify;
+}
+.table td{
+	color: black;
+	font-weight: 100px;
+	font-size: 20px;
+	text-align: justify;
+}
+
+th#preco{
+	min-width:300px;
+}
+th#descricao{
+	min-width:300px;
+}
+th#servicos{
+	min-width:300px;
+}
+th#cortesia{
+	min-width:300px;
+}
+th#programacao{
+	min-width:300px;
+}
+p{
+	font-weight: 200px;
+	font-family:verdana;
+	font-size: 17px;
+	text-align: center;
+	color: black;
+}
+h3{
+	font-weight: 300px;
+	font-family:verdana;
+	font-size: 20px;
+	color: #FF8C69;
+}
+.imagens{
+	padding-left:40%;
+	width:200px; 
+	height:200px;
+}
+.imagens1{
+	padding-left:80%;
+	width:50px; 
+	height:50px;
+}
+.foto1{
+	padding-left:30%;
+	width:100px; 
+	height:100px;
+}
+.foto2{
+	padding-left:18%;
+	
+}
+.foto3{
+	width:300px; 
+	height:200px;
+}
+td#tabela{
+	text-align:center;
+	height:40%;
+	float:40%;
+    padding: 70px;
+	
+
+}
+
+footer{
+	background-color:#FF8C69;
+	color:white;
+	clear:left;
+	text-align:center;
+	padding:10px;
+	text-transform: uppercase;
+	position: relative;
+}
+
